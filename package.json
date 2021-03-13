@@ -1,0 +1,11 @@
+{
+  "name": "gmaps-101",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/katendeglory/google-maps-2021-101.git",
+  "author": "Glory Katende <katendeglory@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "git:push": "git add . && git commit -am \"Yet another commit\" && git push origin main"
+  }
+}
